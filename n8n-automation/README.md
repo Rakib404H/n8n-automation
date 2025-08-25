@@ -25,7 +25,7 @@ After installing the dependencies, you can start the application with:
 npm start
 ```
 
-This will launch the n8n automation workflows.
+This will launch the n8n automation workflows..
 
 ## Contributing
 
